@@ -12,22 +12,22 @@ Sou desenvolvedor web em formação, apaixonado por transformar ideias em projet
 
 ## 🧰 Tecnologias
 
-![JavaScript](https://skillicons.dev/icons?i=js,html,css,python)
-![Back-end](https://skillicons.dev/icons?i=nodejs,express,mysql)
-![Ferramentas](https://skillicons.dev/icons?i=git,github,bootstrap)
+![JavaScript](https://skillicons.dev/icons?i=js,python)
+![Back-end](https://skillicons.dev/icons?i=nodejs,mysql)
+![Ferramentas](https://skillicons.dev/icons?i=github,bootstrap)
 
 ## ⭐ Projeto em destaque
 
 ### ♻️ [RecycleNet](https://github.com/luisotavio18/RECYCLENET)
 
 Site com mapas interativos da coleta de lixo reciclável em São Leopoldo/RS, com cadastro de usuários e um mural da comunidade.
-Feito com **Node.js, Express e MySQL**. 
+Feito com **Node.js, Express e MySQL**.
 
 ## 🎯 Objetivo
 
-Crescer na área de tecnologia, construir projetos cada vez mais completos e fazer parte de uma equipe onde eu possa agregar valor.
+Crescer como desenvolvedor, construir projetos cada vez mais completos e fazer parte de um time onde eu possa evoluir todos os dias.
 
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL/)
-- 📧 luisotavio0553@gmail.com
+- 📧 seu-email@exemplo.com
