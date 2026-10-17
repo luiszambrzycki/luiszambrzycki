@@ -1,14 +1,12 @@
-# Olá, seja bem-vindo(a)! 🚀
+# Olá 👋
 
-Sou desenvolvedor web em formação, apaixonado por transformar ideias em projetos que funcionam de verdade, do banco de dados até a tela do usuário.
+Sou desenvolvedor web, com interesse em áreas como desenvolvimento de sistemas/web e análise de dados.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Técnico em Informática para Internet pelo **SENAC** e cursando graduação em tecnologia
-- 💻 Mais de **3 anos** de experiência com desenvolvimento web
-- 🤖 Gosto de criar **automações com IA** usando workflows
-- 🔭 Atualmente: evoluindo em back-end, banco de dados e automações
-- 🤝 Aberto a oportunidades e a projetos em equipe, onde eu possa aprender e contribuir
+- 🎓 Técnico em Informática para Internet pelo **SENAC** e cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Tenho interesse em: análise/ciência de dados, automações de IA, desenvolver projetos que agregam valor ao mundo.
+- 🤝 Aberto a oportunidades e projetos que me façam evoluir.
 
 ## 🧰 Tecnologias
 
@@ -29,5 +27,5 @@ Crescer como desenvolvedor, construir projetos cada vez mais completos e fazer p
 
 ## 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL/)
-- 📧 seu-email@exemplo.com
+- 💼 [LinkedIn](www.linkedin.com/in/luis-zambrzycki-95ab05305)
+- 📧 luisotavio0553@gmail.com
