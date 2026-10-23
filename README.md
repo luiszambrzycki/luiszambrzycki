@@ -5,7 +5,7 @@ Sou desenvolvedor web, com interesse em áreas como desenvolvimento de sistemas/
 ## 👨‍💻 Sobre mim
 
 - 🎓 Técnico em Informática para Internet pelo **SENAC** e cursando Análise e Desenvolvimento de Sistemas
-- 🔭 Tenho interesse em: análise/ciência de dados, automações de IA, desenvolver projetos que agregam valor ao mundo.
+- 🔭 Tenho interesse em: análise/ciência de dados, automações de IA, desenvolver projetos que agregam valor ao mercado.
 - 🤝 Aberto a oportunidades e projetos que me façam evoluir.
 
 ## 🧰 Tecnologias
